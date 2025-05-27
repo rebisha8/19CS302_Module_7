@@ -32,7 +32,8 @@ printf("QRcode:%s\nproduct:%s\nprice :%d\n",j[i].qr,j[i].product,j[i].price);}
 
 ## Output:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c18b9a96-bee0-44b6-a813-028cc79f546e)
+
 
 
 ## Result:
